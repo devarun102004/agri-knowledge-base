@@ -28,14 +28,14 @@ the configured Qdrant collection.
 
 ## 2. Add and ingest documents
 
-Place PDF, UTF-8 text, or Markdown files in `data/raw_pdfs/`, then run:
+Place PDF, UTF-8 text, or Markdown files in `datas/raw_pdfs/`, then run:
 
 ```bash
 python -m scripts.ingest
 ```
 
 All PDF pages are processed for text and detected tables. Cleaned OKF Markdown
-with YAML front matter is written to `data/okf/`. Chunks, embeddings, source,
+with YAML front matter is written to `datas/okf/`. Chunks, embeddings, source,
 page, and clearly labelled crop/disease/product table fields are saved to the
 `pesticide_knowledge` Qdrant collection. Re-ingestion updates old chunks for a
 source.
@@ -44,7 +44,7 @@ You can also pass a file or directory explicitly:
 
 ```bash
 python -m scripts.ingest ./some-folder --collection pesticide_knowledge
-python -m scripts.ingest data/okf/bio_insecticides_recommendations.md
+python -m scripts.ingest datas/okf/bio_insecticides_recommendations.md
 ```
 
 Markdown recommendation records are indexed one record per chunk. Their crop,
@@ -52,7 +52,7 @@ disease/insect, product, dosage, application instructions, habitat, and surface
 fields are retained as Qdrant metadata when present.
 
 Scanned/image-only PDFs require OCR before ingestion. Table detection depends
-on the PDF's layout; check the generated Markdown under `data/okf/` before
+on the PDF's layout; check the generated Markdown under `datas/okf/` before
 relying on a table-derived recommendation.
 
 ## 3. Retrieve a structured, source-only result
