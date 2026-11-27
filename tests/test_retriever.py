@@ -2,7 +2,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import Mock
 
-from qdrant_client import QdrantClient
+from qdrant_client import QdrantClient, models
 
 from src.chunker import chunk_text
 from src.chunker import chunk_document
@@ -137,6 +137,92 @@ class RetrievalTests(unittest.TestCase):
         self.assertEqual(client.count("test_pesticide_kb", exact=True).count, 1)
         self.assertIn("Updated guidance.", store.search(vector)[0]["text"])
 
+    def test_search_prefers_structured_recommendations_over_raw_chunks(self) -> None:
+        client = QdrantClient(":memory:")
+        vector = [1.0] + [0.0] * 383
+        store = QdrantStore(collection_name="test_structured_search", client=client)
+        client.upsert(
+            collection_name="test_structured_search",
+            points=[
+                models.PointStruct(
+                    id=1,
+                    vector=vector,
+                    payload={"text": "Raw PDF table row"},
+                ),
+                models.PointStruct(
+                    id=2,
+                    vector=vector,
+                    payload={"text": "Structured recommendation", "product": "Product A"},
+                ),
+            ],
+            wait=True,
+        )
+
+        results = store.search(vector, limit=1)
+
+        self.assertEqual(len(results), 1)
+        self.assertEqual(results[0]["product"], "Product A")
+
+    def test_search_falls_back_to_raw_chunks_when_no_recommendations_exist(self) -> None:
+        client = QdrantClient(":memory:")
+        vector = [1.0] + [0.0] * 383
+        store = QdrantStore(collection_name="test_raw_search_fallback", client=client)
+        client.upsert(
+            collection_name="test_raw_search_fallback",
+            points=[
+                models.PointStruct(
+                    id=1,
+                    vector=vector,
+                    payload={"text": "Raw PDF table row"},
+                )
+            ],
+            wait=True,
+        )
+
+        results = store.search(vector, limit=1)
+
+        self.assertEqual(results[0]["text"], "Raw PDF table row")
+
+    def test_search_reranks_matching_crop_and_disease_above_embedding_score(self) -> None:
+        client = QdrantClient(":memory:")
+        query_vector = [1.0] + [0.0] * 383
+        lower_vector = [0.9, (1 - 0.9**2) ** 0.5] + [0.0] * 382
+        store = QdrantStore(collection_name="test_crop_disease_rerank", client=client)
+        client.upsert(
+            collection_name="test_crop_disease_rerank",
+            points=[
+                models.PointStruct(
+                    id=1,
+                    vector=query_vector,
+                    payload={
+                        "text": "Tomato root rot recommendation",
+                        "crop": "Tomato",
+                        "disease": "Root rot",
+                        "product": "Product A",
+                    },
+                ),
+                models.PointStruct(
+                    id=2,
+                    vector=lower_vector,
+                    payload={
+                        "text": "Tomato early blight recommendation",
+                        "crop": "Tomato",
+                        "disease": "Early blight",
+                        "product": "Product B",
+                    },
+                ),
+            ],
+            wait=True,
+        )
+        retriever = PesticideRetriever(
+            store=store,
+            embedding_model=FixedEmbeddingModel(query_vector),
+        )
+
+        results = retriever.search("Tomato Early blight", limit=5)
+
+        self.assertEqual([result["product"] for result in results], ["Product B"])
+
     def test_creates_payload_indexes_for_document_replacement_filters(self) -> None:
         client = Mock(spec=QdrantClient)
         client.collection_exists.return_value = True
@@ -147,7 +233,10 @@ class RetrievalTests(unittest.TestCase):
             call.kwargs["field_name"]
             for call in client.create_payload_index.call_args_list
         }
-        self.assertEqual(indexed_fields, {"document_id", "document_revision"})
+        self.assertEqual(
+            indexed_fields,
+            {"document_id", "document_revision", "product"},
+        )
 
     def test_rejects_empty_query_and_nonpositive_limit(self) -> None:
         embedding_model = FixedEmbeddingModel([1.0] + [0.0] * 383)

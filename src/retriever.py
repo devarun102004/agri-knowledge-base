@@ -1,7 +1,49 @@
+import re
 from typing import Any
 
 from src.embedding_model import EmbeddingModel
 from src.qdrant_store import QdrantStore
+
+_TOKEN = re.compile(r"[a-z0-9]+")
+_QUERY_STOP_WORDS = {
+    "a",
+    "an",
+    "and",
+    "concentration",
+    "concenteration",
+    "crop",
+    "disease",
+    "diseases",
+    "dose",
+    "dosage",
+    "for",
+    "from",
+    "give",
+    "me",
+    "name",
+    "of",
+    "on",
+    "pest",
+    "product",
+    "recommend",
+    "recommendation",
+    "show",
+    "the",
+    "then",
+    "waiting",
+    "with",
+    "period",
+    "what",
+    "which",
+}
+
+
+def _tokens(value: str) -> set[str]:
+    return {
+        token
+        for token in _TOKEN.findall(value.casefold())
+        if token not in _QUERY_STOP_WORDS
+    }
 
 
 class PesticideRetriever:
@@ -19,7 +61,44 @@ class PesticideRetriever:
         if limit <= 0:
             raise ValueError("limit must be greater than zero")
         vector = self.embedding_model.embed(query)
-        return self.store.search(vector, limit)
+        results = self.store.search(vector, max(limit * 10, 50))
+        query_tokens = _tokens(query)
+        if query_tokens and any(result.get("product") for result in results):
+            def lexical_match(result: dict[str, Any]) -> tuple[int, int]:
+                crop_tokens = _tokens(str(result.get("crop") or ""))
+                record_tokens = _tokens(
+                    " ".join(
+                        str(result.get(field) or "")
+                        for field in (
+                            "crop",
+                            "disease",
+                            "product",
+                            "name_of_insect",
+                            "habitat",
+                            "surface",
+                        )
+                    )
+                )
+                return (
+                    len(query_tokens & crop_tokens),
+                    len(query_tokens & record_tokens),
+                )
+
+            results.sort(
+                key=lambda result: (
+                    *lexical_match(result),
+                    result["score"],
+                ),
+                reverse=True,
+            )
+            best_match = lexical_match(results[0])
+            if best_match[1] > 0:
+                results = [
+                    result
+                    for result in results
+                    if lexical_match(result) == best_match
+                ]
+        return results[:limit]
 
     def recommend(self, query: str, limit: int = 5) -> dict[str, Any]:
         results = self.search(query, limit)
