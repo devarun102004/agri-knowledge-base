@@ -46,6 +46,16 @@ class RetrievalTests(unittest.TestCase):
                                 "- Dosage: 20 gm/kg",
                                 "- Application instructions: Treat the seed.",
                                 "- Source page: PDF page 10",
+                                "",
+                                "## Recommendation: Product B",
+                                "",
+                                "- Pesticide name: Product B",
+                                "- Crop: Tomato",
+                                "- Disease: Root-knot nematodes",
+                                "- Dosage per ha: Active ingredient: 20 g; formulation: 200 g",
+                                "- Waiting period: 10 days",
+                                "- Application instructions: Treat the seed.",
+                                "- Source page: PDF page 11",
                             ]
                         ),
                         [],
@@ -58,7 +68,11 @@ class RetrievalTests(unittest.TestCase):
         store.upsert_document(document, chunks, [vector for _ in chunks])
 
         recommendation = retriever.recommend("tomato root-knot nematodes")
-        result = recommendation["recommendations"][0]
+        result = next(
+            item
+            for item in recommendation["recommendations"]
+            if item["product"] == "Product A"
+        )
 
         self.assertEqual(result["product"], "Product A")
         self.assertEqual(result["crop"], "Tomato")
@@ -66,6 +80,18 @@ class RetrievalTests(unittest.TestCase):
         self.assertEqual(result["dosage"], "20 gm/kg")
         self.assertEqual(result["application_instructions"], "Treat the seed.")
         self.assertEqual(result["page"], 10)
+
+        new_fields_result = next(
+            item
+            for item in recommendation["recommendations"]
+            if item["product"] == "Product B"
+        )
+        self.assertEqual(
+            new_fields_result["dosage"],
+            "Active ingredient: 20 g; formulation: 200 g",
+        )
+        self.assertEqual(new_fields_result["waiting_period"], "10 days")
+        self.assertEqual(new_fields_result["page"], 11)
 
     def test_qdrant_search_returns_source_backed_chunk(self) -> None:
         client = QdrantClient(":memory:")
@@ -136,6 +162,41 @@ class RetrievalTests(unittest.TestCase):
 
         self.assertEqual(client.count("test_pesticide_kb", exact=True).count, 1)
         self.assertIn("Updated guidance.", store.search(vector)[0]["text"])
+
+    def test_upsert_document_sends_large_documents_in_batches(self) -> None:
+        client = QdrantClient(":memory:")
+        store = QdrantStore(collection_name="test_batched_upsert", client=client)
+        original_upsert = client.upsert
+        client.upsert = Mock(wraps=original_upsert)
+        vector = [1.0] + [0.0] * 383
+        document = {
+            "document_id": "batched-document",
+            "text": "Recommendation records",
+            "source": "/tmp/recommendations.md",
+            "title": "recommendations",
+            "media_type": "text/markdown",
+        }
+        chunks = [
+            {
+                "ordinal": ordinal,
+                "text": f"Record {ordinal}",
+                "start_offset": ordinal,
+                "end_offset": ordinal + 1,
+            }
+            for ordinal in range(65)
+        ]
+
+        count = store.upsert_document(document, chunks, [vector] * len(chunks))
+
+        self.assertEqual(count, 65)
+        self.assertEqual(
+            [len(call.kwargs["points"]) for call in client.upsert.call_args_list],
+            [64, 1],
+        )
+        self.assertEqual(
+            client.count("test_batched_upsert", exact=True).count,
+            65,
+        )
 
     def test_search_prefers_structured_recommendations_over_raw_chunks(self) -> None:
         client = QdrantClient(":memory:")

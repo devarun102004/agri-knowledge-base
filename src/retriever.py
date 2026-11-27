@@ -111,6 +111,7 @@ class PesticideRetriever:
                     "product": result.get("product"),
                     "active_ingredient": result.get("active_ingredient"),
                     "dosage": result.get("dosage"),
+                    "waiting_period": result.get("waiting_period"),
                     "application_instructions": result.get("application_instructions"),
                     "name_of_insect": result.get("name_of_insect"),
                     "habitat": result.get("habitat"),
