@@ -102,12 +102,24 @@ def _chunk_recommendations(
         }
         source_page = re.search(r"PDF pages?\s+(\d+)", fields.get("source page", ""), re.I)
         page_number = int(source_page.group(1)) if source_page else default_page_number
-        disease = fields.get("disease") or fields.get("name of insect")
+        disease = fields.get("disease") or fields.get("pest") or fields.get("name of insect")
+        dosage = fields.get("dosage per ha") or fields.get("dosage")
+        if not dosage:
+            dosage_parts = [
+                f"{label}: {fields[label]}"
+                for label in (
+                    "active ingredient dosage per ha",
+                    "formulation dosage per ha",
+                    "dilution in water per ha",
+                )
+                if fields.get(label)
+            ]
+            dosage = "; ".join(dosage_parts)
         metadata = {
             "crop": fields.get("crop", ""),
             "disease": disease or "",
             "product": fields.get("pesticide name", ""),
-            "dosage": fields.get("dosage per ha") or fields.get("dosage", ""),
+            "dosage": dosage or "",
             "waiting_period": fields.get("waiting period", ""),
             "application_instructions": fields.get("application instructions", ""),
             "name_of_insect": fields.get("name of insect", ""),
