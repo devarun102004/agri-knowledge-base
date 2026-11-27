@@ -1,0 +1,1367 @@
+# Bio-Insecticide Recommendations Extracted from the PDF
+
+> Source transcriptions only, not independent product recommendations. Dosage values from separate table cells are kept in source order; quantities stated inline are listed in Dosage as well. Verify the cited PDF page before use.
+
+## Recommendation: Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based
+
+- Pesticide name: Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based
+- Crop: Cotton
+- Disease: White fly, Bollworms
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based
+
+- Pesticide name: Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based
+- Crop: Rice (Paddy)
+- Disease: Thrips, Stem borer, Brown plant hopper, Leaf folder
+- Dosage: -; 1500-2500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.30% EC (3000 PPM) Min. Neem Seed Kernel Based
+
+- Pesticide name: Azadirachtin 00.30% EC (3000 PPM) Min. Neem Seed Kernel Based
+- Crop: Cotton
+- Disease: American bollworm
+- Dosage: -; 4000; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 01.00% (10000 ppm) EC Min. Neem Based
+
+- Pesticide name: Azadirachtin 01.00% (10000 ppm) EC Min. Neem Based
+- Crop: Tea
+- Disease: Thrips
+- Dosage: -; 400-500; 450
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 01.00% (10000 ppm) EC Min. Neem Based
+
+- Pesticide name: Azadirachtin 01.00% (10000 ppm) EC Min. Neem Based
+- Crop: Tea
+- Disease: Red spider mites
+- Dosage: -; 400-500; 600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 01.00% EC (10000 PPM) Min. Neem Based
+
+- Pesticide name: Azadirachtin 01.00% EC (10000 PPM) Min. Neem Based
+- Crop: Tomato
+- Disease: Fruit borer (Helicoverpa armigera)
+- Dosage: -; 1000-1500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 01.00% EC (10000 PPM) Min. Neem Based
+
+- Pesticide name: Azadirachtin 01.00% EC (10000 PPM) Min. Neem Based
+- Crop: Brinjal
+- Disease: Shoot & fruit borer (Leucinodes orbonalis)
+- Dosage: -; 1000-1500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.03% EC Min. Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% EC Min. Neem Oil Based
+- Crop: Cotton
+- Disease: Bollworm (Helicoverpa armigera), Aphids
+- Dosage: -; 2500-5000; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.03% EC Min. Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% EC Min. Neem Oil Based
+- Crop: Rice (Paddy)
+- Disease: Leaf roller, Stem borer, Brown plant hopper
+- Dosage: -; 2000; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Bengal Gram (Gram or Chickpea)
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; -; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Red Gram (Tur or Arhar)
+- Disease: Pod borer (Melanagromyza sp.)
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 1
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Cotton
+- Disease: Aphids, Jassids, Whitefly, Bollworms
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Okra (Bhindi)
+- Disease: Fruit borer, Whitefly, Leaf Hopper
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Brinjal
+- Disease: Shoot & Fruit borer, beetles
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Cabbage
+- Disease: Aphids, Diamond back moth, Cabbage worm, Cabbage looper
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+
+- Pesticide name: Azadirachtin 00.03% WSP (300 PPM) Neem Oil Based
+- Crop: Jute
+- Disease: Semi looper, Hairy caterpillar
+- Dosage: -; 2500-5000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Tea
+- Disease: Caterpillar, Pink mite, Red spider mites, Thrips
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Tobacco
+- Disease: Tobacco caterpillar, Aphids
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Rice (Paddy)
+- Disease: Brown plant hopper, Leaf folder, Stem borer
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Cotton
+- Disease: Whitefly, Leaf hoppers, Helicoverpa armigera, Aphids
+- Dosage: -; 375.0; 750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Cauliflower
+- Disease: Spodoptera, Diamond back moth, Aphids
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Bhindi (Okra)
+- Disease: Leafhopper, whitefly, Aphid, Pod borer
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+
+- Pesticide name: Azadirachtin 05.00% w/w Min. Neem Extract Concentrates
+- Crop: Tomato
+- Disease: Aphids, Whitefly, Fruit borer
+- Dosage: -; 200.0; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Cabbage & Cauliflower
+- Disease: Diamond back moth (Plutella xylostella)
+- Dosage: -; 06-1.0; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Tomato
+- Disease: Fruit borer (Helicoverpa armigera)
+- Dosage: -; 1.0-1.5; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 2
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Bhindi (Okra)
+- Disease: Fruit borer (Earias spp.)
+- Dosage: -; 1.0-1.5; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF pages 2-3## Recommendation: Trichoderma viride
+
+- Pesticide name:
+- Crop:
+- Disease:
+- Dosage:
+- Application instructions:
+- Source page:
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Chilli
+- Disease: Fruit borer (Spodoptera litura)
+- Dosage: -; 1.5-2.0; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Cotton
+- Disease: Bollworm (Helicoverpa armigera)
+- Dosage: -; 2.0-2.5; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. galleriae 1593 M serotype H 59 5b, 1.3% flowable concentrate Potency 1500 IU/mg
+- Crop: Rice (Paddy)
+- Disease: Leaf folder (Cnaphalocrocis medinalis)
+- Dosage: -; 1.0-3.0; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki
+- Crop: Cotton
+- Disease: Bollworm
+- Dosage: -; 750-1000; 750-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Cotton
+- Disease: Bollworms, Spodoptera
+- Dosage: 0.75-1.00; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Rice (Paddy)
+- Disease: Stem borer & Leaf folder
+- Dosage: 1.50; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Gram
+- Disease: Heliothis sp.
+- Dosage: 0.75; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Pigeon Pea
+- Disease: Heliothis sp.
+- Dosage: 0.75; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Soybean
+- Disease: Spodoptera, Heliothis, Spilosoma, Semilooper, Leaf miner
+- Dosage: 0.75; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Tobacco
+- Disease: Spodoptera, Heliothis
+- Dosage: 1.50-2.00; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Castor
+- Disease: Hairy caterpillar, Achaea janata
+- Dosage: 1.00; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, Strain Z-52
+- Crop: Teak
+- Disease: Defoliator (Hyblaea puera), Skeletonizer (Eutectona machaeralis)
+- Dosage: 0.25-0.50; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+
+- Pesticide name: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+- Crop: Cotton
+- Disease: American Bollworm
+- Dosage: 25.00- 50.00; 500-1000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+
+- Pesticide name: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+- Crop: Cotton
+- Disease: Spotted Bollworm
+- Dosage: 37.50- 50.00; 750-1000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 3
+
+## Recommendation: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+
+- Pesticide name: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+- Crop: Red gram
+- Disease: Pod Borer
+- Dosage: 50.00- 62.50; 1000-1250; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+
+- Pesticide name: Bacillus thuringiensis serovar kurstaki (3a, 3b, 3c) 5.0% WP Potency 55000 SU (Spodoptera unit based) (5x107 spore/mg)
+- Crop: Cabbage
+- Disease: Diamond back moth
+- Dosage: 25.00- 50.00; 500-1000; 500-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 9000 IU/mg min. U/s 9(3b)
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 9000 IU/mg min. U/s 9(3b)
+- Crop: Caster
+- Disease: Caster 5rustaki5r (Achaea janata)
+- Dosage: -; 0.25; 250-300
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1 NAIMCC-B-01118, Potency 13329 IU/mg min. U/s 9(3b)
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1 NAIMCC-B-01118, Potency 13329 IU/mg min. U/s 9(3b)
+- Crop: Pigeon pea
+- Disease: Bollworm (Helicoverpa armigera)
+- Dosage: -; 1-1.25; 1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 9000 IU/mg min. U/s 9(3b)
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 9000 IU/mg min. U/s 9(3b)
+- Crop: Caster
+- Disease: Caster 5rustaki5r (Achaea janata)
+- Dosage: -; 0.25- 0.375; 250
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 16000IU/mg min.
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 0.5% WP serotype 3a, 3b, 3c, Strain DOR Bt-1, Potency 16000IU/mg min.
+- Crop: Chickpea
+- Disease: Chick pea pod borer (Helicoverpa armigera)
+- Dosage: -; 2.0; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 2.5% AS (Spicbio-BTK AS)
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 2.5% AS (Spicbio-BTK AS)
+- Crop: Gram
+- Disease: Gram pod borer (Helicoverpa armigera)
+- Dosage: -; 1.0-1.5; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Cotton
+- Disease: Bollworms, Spodoptera
+- Dosage: -; 0.75-1.0 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Rice
+- Disease: Stem borer & Leaf folder
+- Dosage: -; 1.50 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Gram
+- Disease: Helicoverpa armiger
+- Dosage: -; 0.75 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Pigeon Pea
+- Disease: Helicoverpa armiger
+- Dosage: -; 0.75 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 4
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Soyabean
+- Disease: Spodoptera litura, Helicoverpa armigera, Spilosoma 6rustak, Semilooper, Leaf miner
+- Dosage: -; 0.75 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Tobacco
+- Disease: Spodoptera litura, Helicoverpaarmigera
+- Dosage: -; 1.50-2.00 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Castor
+- Disease: Hairy caterpillar, Caster semilooper (Achaea janata)
+- Dosage: -; 1.00 kg.; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+
+- Pesticide name: Bacillus thuringiensis var. krustaki, Serotype H-3a, 3b, Strain Z-52 Potency:- 3000 IU/mg min – on Gypsy moth 32000 IU/mg min – Trichoplusia vi 50000 IU/mg min – Helicoverpa armigera 55000 IU/mg min – Spodoptera exiqua
+- Crop: Teak
+- Disease: Defoliator (Hyblaea puera), Skeletonizer (Eutectona machaeralis)
+- Dosage: -; 0.25-0.50% Sol.; As required.
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. kurstaki Strain HD-1, serotype 3a, 3b, 3.5% ES for Import &repack. Potency17600 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki Strain HD-1, serotype 3a, 3b, 3.5% ES for Import &repack. Potency17600 IU/mg
+- Crop: Cotton
+- Disease: Bollworms
+- Dosage: -; 750-1000; 750-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. kurstaki Strain HD-1, serotype 3a, 3b, 3.5% ES for Import &repack. Potency17600 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki Strain HD-1, serotype 3a, 3b, 3.5% ES for Import &repack. Potency17600 IU/mg
+- Crop: Tea
+- Disease: Leaf roller (Caloptilia theivora)
+- Dosage: -; 1000; 750-100
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. kurstaki Serotype 3a, 3b, SA II WG Potency:- 53000 SU/mg, 32000 IU/mg
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki Serotype 3a, 3b, SA II WG Potency:- 53000 SU/mg, 32000 IU/mg
+- Crop: Cabbage, Cauliflower
+- Disease: Diamond back moth
+- Dosage: -; 0.5 kg.; 500-700
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus thuringiensis var. kurstaki 10% WSL (CFU: 2x109 /gm min.) Strain- NBAIR-BtG4, Accession no- JN120763, JN120765, Potency- 14245 IU/ml min.
+
+- Pesticide name: Bacillus thuringiensis var. kurstaki 10% WSL (CFU: 2x109 /gm min.) Strain- NBAIR-BtG4, Accession no- JN120763, JN120765, Potency- 14245 IU/ml min.
+- Crop: Pigeon Pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 10 liter; 200
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Bacillus firmus 1.5% AS (CFU count: 1 × 10⁸ /ml Min.) Strain name: AMMFA-BF1, NCMR Accession number MCC 0584)
+
+- Pesticide name: Bacillus firmus 1.5% AS (CFU count: 1 × 10⁸ /ml Min.) Strain name: AMMFA-BF1, NCMR Accession number MCC 0584)
+- Crop: Tomato
+- Disease: Root knot nematode (Meloidogyne incognita)
+- Dosage: --; 5000; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Beauveria bassiana 1.15% WP
+
+- Pesticide name: Beauveria bassiana 1.15% WP
+- Crop: Cotton
+- Disease: Bollworms
+- Dosage: -; 400; 750-1000
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Beauveria bassiana 01.15% WP
+
+- Pesticide name: Beauveria bassiana 01.15% WP
+- Crop: Cotton
+- Disease: Bollworm
+- Dosage: -; 2000; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Beauveria bassiana 01.15% WP
+
+- Pesticide name: Beauveria bassiana 01.15% WP
+- Crop: Rice (Paddy)
+- Disease: Leaf folder
+- Dosage: -; 2.50 kg/ha; 750-850
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 5
+
+## Recommendation: Beauveria bassiana 1.15% WP. (1x108 /gm min) Strain BB-ICAR-RJP, Accession No – MCC 1022
+
+- Pesticide name: Beauveria bassiana 1.15% WP. (1x108 /gm min) Strain BB-ICAR-RJP, Accession No – MCC 1022
+- Crop: Rice
+- Disease: Rice leaf folder (Cnaphalocrocis medinalis)
+- Dosage: -; 2.5 kg.; 750-850
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.15% WP (Strain : BB – 5372, own R & D Isolate)
+
+- Pesticide name: Beauveria bassiana 1.15% WP (Strain : BB – 5372, own R & D Isolate)
+- Crop: Rice
+- Disease: Rice leaf folder (Cnaphalocrocis medinalis)
+- Dosage: -; 2.5 kg.; 600-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.15% WP (1x108 /gm min) Strain ICAR, Research Complex, Umiam, Meghalaya, Accession No – NAIMCC-F-03045
+
+- Pesticide name: Beauveria bassiana 1.15% WP (1x108 /gm min) Strain ICAR, Research Complex, Umiam, Meghalaya, Accession No – NAIMCC-F-03045
+- Crop: Rice
+- Disease: Rice leaf folder (Cnaphalocrocis medinalis)
+- Dosage: -; 2.5 kg.; 750-850
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.15% WP (1x108 /gm min) Accession No – NAIMCC-F-03045, Strain No. NBAIM, MAU.
+
+- Pesticide name: Beauveria bassiana 1.15% WP (1x108 /gm min) Accession No – NAIMCC-F-03045, Strain No. NBAIM, MAU.
+- Crop: Rice
+- Disease: Rice leaf folder (Cnaphalocrocis medinalis)
+- Dosage: -; 2.5 kg/ha; 750 liter/ha
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.15% WP (1x108 /spores/ml) Strain BCRL, Accession No – BCRL Bbpx-6892
+
+- Pesticide name: Beauveria bassiana 1.15% WP (1x108 /spores/ml) Strain BCRL, Accession No – BCRL Bbpx-6892
+- Crop: Cabbage
+- Disease: Diamond back moth (Plutella xylostella)
+- Dosage: 1-1.5 litre; 500-750
+- Application instructions: Apply using any type of sprayer (high, low or ultra low volume) which gives good coverage
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.0% WP, Strain No: NBRI – 9947 (1x108 CFU/gm Min.)
+
+- Pesticide name: Beauveria bassiana 1.0% WP, Strain No: NBRI – 9947 (1x108 CFU/gm Min.)
+- Crop: Chick pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 3.0 kg.; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.0% WP (1x109 CFU/gm min), Strain No. IPL/BB/MI/01
+
+- Pesticide name: Beauveria bassiana 1.0% WP (1x109 CFU/gm min), Strain No. IPL/BB/MI/01
+- Crop: Okra (Bhindi)
+- Disease: Fruit borer, Spotted bollworm
+- Dosage: -; 3.75-5.0 kg.; 400-500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 1.0% WP (1x108 CFU/gm min), Strain No. SVBPU/CSP/Bb-10, Accession No. ITCC- 7520
+
+- Pesticide name: Beauveria bassiana 1.0% WP (1x108 CFU/gm min), Strain No. SVBPU/CSP/Bb-10, Accession No. ITCC- 7520
+- Crop: Chick pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 3.0 kg.; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 6
+
+## Recommendation: Beauveria bassiana 5.0% WP, (1x108 CFU/gm min) Strain IARI, Accession No. ITCC-7353
+
+- Pesticide name: Beauveria bassiana 5.0% WP, (1x108 CFU/gm min) Strain IARI, Accession No. ITCC-7353
+- Crop: Cabbage
+- Disease: Diamond back moth (Plutella xylostella)
+- Dosage: -; 2.0 kg.; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 5.0% SC, Strain: NBAII, Bangalore, Accession No. ITCC-7102, (Strain Isolated by Project Directorate of Bio-logical control, Bangalore)
+
+- Pesticide name: Beauveria bassiana 5.0% SC, Strain: NBAII, Bangalore, Accession No. ITCC-7102, (Strain Isolated by Project Directorate of Bio-logical control, Bangalore)
+- Crop: Tomato
+- Disease: Fruit borer (Helicoverpa armigera)
+- Dosage: -; 500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 5.0% AS Strain: BB-AAU-RJP Accession No. MCC – 1024
+
+- Pesticide name: Beauveria bassiana 5.0% AS Strain: BB-AAU-RJP Accession No. MCC – 1024
+- Crop: Tomato
+- Disease: Fruit borer (Helicoverpa armigera)
+- Dosage: -; 0.5; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 1.5% A.S. (CFU count: 1x10^8 /ml Min.) Strain-AMMFA-BB1, NCMR Accession number MCC 0579
+
+- Pesticide name: Beauveria bassiana 1.5% A.S. (CFU count: 1x10^8 /ml Min.) Strain-AMMFA-BB1, NCMR Accession number MCC 0579
+- Crop: Maize
+- Disease: Fall army worm (Spodoptera frugiperda)
+- Dosage: -; 3125; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 1.15% WP (1x108 /gm min) Accession No – NAIMCC-F-03048
+
+- Pesticide name: Beauveria bassiana 1.15% WP (1x108 /gm min) Accession No – NAIMCC-F-03048
+- Crop: Chick pea
+- Disease: Gram Pod Borer (Helicoverpa armigera)
+- Dosage: -; 2500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 10.00% SC
+
+- Pesticide name: Beauveria bassiana 10.00% SC
+- Crop: Cabbage
+- Disease: Diamond back moth
+- Dosage: 1-1.5; -; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 1.5% Liquid Formulation (CFU count 10X108) Accession No.MTCC-5171
+
+- Pesticide name: Beauveria bassiana 1.5% Liquid Formulation (CFU count 10X108) Accession No.MTCC-5171
+- Crop: Tomato
+- Disease: Fruit borer (Helicoverpa armigera)
+- Dosage: 2.0; Foliar spry; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Beauveria bassiana 1.15% WP (1X106 CFU /gm min)
+
+- Pesticide name: Beauveria bassiana 1.15% WP (1X106 CFU /gm min)
+- Crop: Cotton
+- Disease: Bollworm
+- Dosage: 20; -; 400
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Lecanicillium (Verticillium) lecanii 1.5% AS (CFU count: 1x10^8 /ml Min.) Strain-AMMFA-V1, NCMR Accession Number MCC 0577
+
+- Pesticide name: Lecanicillium (Verticillium) lecanii 1.5% AS (CFU count: 1x10^8 /ml Min.) Strain-AMMFA-V1, NCMR Accession Number MCC 0577
+- Crop: Brinjal
+- Disease: Jassid, aphid, and white fly in brinjal.
+- Dosage: -; 125; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Isaria fumosorosea 5% SC (Strain: ICAR-NBAIR Pfu-5 Accession No. KC147664)
+
+- Pesticide name: Isaria fumosorosea 5% SC (Strain: ICAR-NBAIR Pfu-5 Accession No. KC147664)
+- Crop: Coconut
+- Disease: Rugose spiraling whitefly
+- Dosage: --; 1000 ml; 1000 lit
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Metarhizium anisopliae 1% WP (1x108 CFU/gm min) Strain No. IPL/KC/44, Accession No. ITCC-6895.
+
+- Pesticide name: Metarhizium anisopliae 1% WP (1x108 CFU/gm min) Strain No. IPL/KC/44, Accession No. ITCC-6895.
+- Crop: Brinjal
+- Disease: Shoot & Fruit borer (Leucinodes orbonalis)
+- Dosage: -; 2.5-5.0 Kg; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 7
+
+## Recommendation: Metarhizium anisopliae 1.15% WP (1x108 CFU/gm min) Accession No. MTCC – 5173
+
+- Pesticide name: Metarhizium anisopliae 1.15% WP (1x108 CFU/gm min) Accession No. MTCC – 5173
+- Crop: Rice
+- Disease: Brown plant hopper (Nilapavata lungens)
+- Dosage: -; 2.5 kg.; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 8
+
+## Recommendation: Metarhizium anisopliae 1.0% WP (1x108 CFU/gm min) Strain No. IPL/KC/44 (Own R & D Isolate), Accession No. 6895.
+
+- Pesticide name: Metarhizium anisopliae 1.0% WP (1x108 CFU/gm min) Strain No. IPL/KC/44 (Own R & D Isolate), Accession No. 6895.
+- Crop: Brinjal
+- Disease: Shoot & Fruit borer (Leucinodes orbonalis)
+- Dosage: -; 2.5-5.0 kg; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 8
+
+## Recommendation: Metarhizium anisopliae 1.15% WP (1x108 CFU/gm min) Strain No. AAI, Allahabad, Accession No. NAIMCC-F-03037.
+
+- Pesticide name: Metarhizium anisopliae 1.15% WP (1x108 CFU/gm min) Strain No. AAI, Allahabad, Accession No. NAIMCC-F-03037.
+- Crop: Chickpea
+- Disease: Heliothis armigera
+- Dosage: -; 2.5; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 8
+
+## Recommendation: Metarhizium anisopliae 1.5% Liquid Formulation (Accession No. MTCC-5173, T Stanes Ma-1 Strain)
+
+- Pesticide name: Metarhizium anisopliae 1.5% Liquid Formulation (Accession No. MTCC-5173, T Stanes Ma-1 Strain)
+- Crop: Paddy
+- Disease: Brown Plant Hopper (Nilparvata lugens)
+- Dosage: -; 2.0 lit; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 8
+
+## Recommendation: Metarhizium anisopliae 1.5% A.S. (CFU count: 1x10^8 /ml Min.) Strain-AMMFAMA1, NCMR Accession number MCC 0578
+
+- Pesticide name: Metarhizium anisopliae 1.5% A.S. (CFU count: 1x10^8 /ml Min.) Strain-AMMFAMA1, NCMR Accession number MCC 0578
+- Crop: Okra
+- Disease: Jassid, Aphid and White fly
+- Dosage: --; 3125; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 8
+
+## Recommendation: Metarhizium anisopliae 10% GR (CFU count 1 X 108 /gm. min.) Strain BCRL– Me, Accession No. ITCC 6911
+
+- Pesticide name: Metarhizium anisopliae 10% GR (CFU count 1 X 108 /gm. min.) Strain BCRL– Me, Accession No. ITCC 6911
+- Crop: Potato
+- Disease: White grub
+- Dosage: 60kg.; 6gm/m; 60 kg/ha
+- Application instructions: Mix Metarhizium anisopliae (Grub –X 10% GR) with FYM @ 1 : 10 and apply at the root base by broadcasting method @ 6gm/m2 (=60 kg/ha) along the furrows at the time of sowing and next after one month at the time of earthing up.
+- Source page: PDF page 8
+
+## Recommendation: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+
+- Pesticide name: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+- Crop: Tomato
+- Disease: Root-knot nematodes (Meloidogyne spp.)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Pseudomonas fluorescens 1.0% WP @ 20 gm/kg of seeds & treat the nursery beds with the Pseudomonas fluorescens 1.0% WP @ 50 gm/sq.m and apply Pseudomonas fluorescens 1.0% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 8
+
+## Recommendation: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+
+- Pesticide name: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+- Crop: Brinjal
+- Disease: Root-knot nematodes (Meloidogyne spp.)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Pseudomonas fluorescens 1.0% WP @ 20 gm/kg of seeds & treat the nursery beds with the Pseudomonas fluorescens 1.0% WP @ 50 gm/sq.m and apply Pseudomonas fluorescens 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 9
+
+## Recommendation: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+
+- Pesticide name: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+- Crop: Carrot
+- Disease: Root-knot nematodes (Meloidogyne spp.)
+- Dosage: 20 gm/kg; 50gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Pseudomonas fluorescens 1.0% WP @ 20 gm/kg of seeds & treat the nursery beds with the Pseudomonas fluorescens 1.0% WP @ 50gm/sq.m and apply Pseudomonas fluorescens 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 9
+
+## Recommendation: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+
+- Pesticide name: Pseudomonas fluorescens 1.0% WP (Strain No. IIHR-PF-2, Accession No. ITCC- B0034)
+- Crop: Okra
+- Disease: Root-knot nematodes (Meloidogyne spp.)
+- Dosage: 20 gm/kg; 50gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Pseudomonas fluorescens 1.0% WP @ 20 gm/kg of seeds & treat the nursery beds with the Pseudomonas fluorescens 1.0% WP @ 50gm/sq.m and apply Pseudomonas fluorescens 1.0% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 9
+
+## Recommendation: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+
+- Pesticide name: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+- Crop: Tomato
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma harzianum 1.0% WP @ 20 gm/kg of seeds & nursery beds with the Trichoderma harzianum 1.0% WP @ 50 gm/sq.m and also apply Trichoderma harzianum 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 9
+
+## Recommendation: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+
+- Pesticide name: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+- Crop: Brinjal
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma harzianum 1.0% WP @ 20 gm/kg of seeds & nursery beds with the Trichoderma harzianum 1.0% WP @ 50 gm/sq.m and also apply Trichoderma harzianum 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 9
+
+## Recommendation: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+
+- Pesticide name: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+- Crop: Carrot
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma harzianum 1.0% WP @ 20 gm/kg of seeds and apply Trichoderma harzianum 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before sowing.
+- Source page: PDF page 9
+
+## Recommendation: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+
+- Pesticide name: Trichoderma harzianum 1.0% WP (Strain No. IIHR-TH-2 Accessions No. ITCC 6888)
+- Crop: Okra
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg of seeds; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma harzianum 1.0% WP @ 20 gm/kg of seeds and apply Trichoderma harzianum 1.0% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before sowing.
+- Source page: PDF page 9
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Gerbera
+- Disease: Meloidogyne incognita
+- Dosage: 50 gm/sq.m
+- Application instructions: Apply the Nemastin @ 50 gm/sq.m at the time of planting
+- Source page: PDF page 9
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Carnations
+- Disease: Meloidogyne incognita
+- Dosage: 50 gm/sq.m
+- Application instructions: Apply the Nemastin @ 50 gm/sq.m at the time of planting
+- Source page: PDF page 9
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Tuberose
+- Disease: Meloidogyne incognita
+- Dosage: 2 Kg; 2 ton
+- Application instructions: Apply 2 Kg Nemastin 1% Wp mixed in 2 tones of FYM per acre to the soil before planting
+- Source page: PDF page 9
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Banana
+- Disease: Meloidogyne incognita
+- Dosage: 2 Kg; 2 Kg/pant
+- Application instructions: Apply 2 Kg Nemastin enriched FYM @ 2 Kg/pant at the time of planting and at an interval of 3 months after planting for a period of one year
+- Source page: PDF page 9
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Acid lime
+- Disease: Citrus nematodes (Tylenchulus semipenetrans)
+- Dosage: 2 Kg; 2 Kg/pant
+- Application instructions: Apply 2 Kg Nemastin enriched FYM @ 2 Kg/pant at the time of planting and at an interval of 3 months after planting for a period of one year
+- Source page: PDF pages 9-10
+
+## Recommendation: Nemastin (named in application instructions; no separate product heading shown)
+
+- Pesticide name: Nemastin (named in application instructions; no separate product heading shown)
+- Crop: Papaya
+- Disease: Meloidogyne spp. Reniform Nematodes (Rotelenchulus reniformis)
+- Dosage: 2 Kg; 2 Kg/pant
+- Application instructions: Apply 2 Kg Nemastin enriched FYM @ 2 Kg/pant at the time of planting and at an interval of 3 months after planting for a period of one year
+- Source page: PDF page 10
+
+## Recommendation: PB Rope L
+
+- Pesticide name: PB Rope L
+- Crop: Cotton
+- Disease: Pink bollworm (Pectinophora gossypiella)
+- Dosage: >140; 9875; 25
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 10
+
+## Recommendation: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Tomato
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50gm/sq.m; 5kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Trichoderma harzianum 1.5% WP @ 20 gm/kg of seeds & treat the nursery beds with the Trichoderma harzianum 1.5% WP @ 50gm/sq.m and also apply Trichoderma harzianum 1.5% WP @ 5kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 10
+
+## Recommendation: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Brinjal
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Trichoderma harzianum 1.5% WP @ 20 gm/kg of seeds & treat the nursery beds with the Trichoderma harzianum 1.5% WP @ 50 gm/sq.m and also apply Trichoderma harzianum 1.5% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 10
+
+## Recommendation: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Carrot
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg of seeds; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Trichoderma harzianum 1.5% WP @ 20 gm/kg of seeds & treat the nursery beds with the Trichoderma harzianum 1.5% WP @ 50 gm/sq.m and also apply Trichoderma harzianum 1.5% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 10
+
+## Recommendation: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma harzianum 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Okra
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seed with Trichoderma harzianum 1.5% WP @ 20 gm/kg of seeds & treat the nursery beds with the Trichoderma harzianum 1.5% WP @ 50 gm/sq.m and also apply Trichoderma harzianum 1.5% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 10
+
+## Recommendation: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Tomato
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m.; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma viride l.5% WP @ 20 gm/kg of seeds & nursery beds with the Trichoderma viride l.5 % WP @ 50 gm/sq.m. and also apply Trichoderma viride 1.5% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF pages 10-11
+
+## Recommendation: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Brinjal
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m.; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma viride l.5% WP @ 20 gm/kg of seeds & nursery beds with the Trichoderma viride l.5% WP @ 50 gm/sq.m. and also apply Trichoderma viride 1.5% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 11
+
+## Recommendation: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Carrot
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma viride l.5 % W P @ 20 gm/kg of seeds and apply Trichoderma viride 1.5% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before Planting’.
+- Source page: PDF page 11
+
+## Recommendation: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+
+- Pesticide name: Trichoderma viride 1.5% WP (Strain No. IIHR-TV-5 Accessions No. ITCC 6889)
+- Crop: Okra
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Trichoderma viride l.5 % W P @ 20 gm/kg of seeds and apply Trichoderma viride 1.5% WP (@ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before Planting’.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+
+- Pesticide name: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+- Crop: Tomato
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Verticillium chlamydosporium 1.0% WP @ 20 gm/kg of seeds & nursery beds with the Verticillium chlamydosporium 1.0% WP @ 50 gm/sq.m and also apply Verticillium chlamydosporium 1.0% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+
+- Pesticide name: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+- Crop: Brinjal
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 50 gm/sq.m; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Verticillium chlamydosporium 1.0% WP @ 20 gm/kg of seeds & nursery beds with the Verticillium chlamydosporium 1.0% WP @ 50 gm/sq.m and also apply Verticillium chlamydosporium 1.0% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+
+- Pesticide name: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+- Crop: Carrot
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Verticillium chlamydosporium 1.0% WP @ 20 gm/kg of seeds and apply Verticillium chlamydosporium 1.0% WP @ 5 kg/ha enriched FYM* @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+
+- Pesticide name: Verticillium chlamydosporium 1.0% WP, (2x106 CFU/gm min) Strain – IIHR-VC-3 Accession No – ITCC-6898
+- Crop: Okra
+- Disease: Root-knot nematodes (Meloidogyne incognita)
+- Dosage: 20 gm/kg; 5 kg/ha; 5 tons/ha
+- Application instructions: Treat the seeds with Verticillium chlamydosporium 1.0% WP @ 20 gm/kg of seeds and apply Verticillium chlamydosporium 1.0% WP @ 5 kg/ha enriched FYM * @ 5 tons/ha to the soil before transplanting.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium lecanii 1.15%WP, (1x108 CFU/gm min) Strain – AS MEGH-VL Accession No – MCC-1028
+
+- Pesticide name: Verticillium lecanii 1.15%WP, (1x108 CFU/gm min) Strain – AS MEGH-VL Accession No – MCC-1028
+- Crop: Cotton
+- Disease: White flies
+- Dosage: -; 2500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium lecanii 1.15%WP, (1x108 CFU/gm min) Strain – AS MEGH-VL Accession No – MCC-1028
+
+- Pesticide name: Verticillium lecanii 1.15%WP, (1x108 CFU/gm min) Strain – AS MEGH-VL Accession No – MCC-1028
+- Crop: Citrus
+- Disease: Mealybug (Planococcus citri)
+- Dosage: -; 2500; 550
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 11
+
+## Recommendation: Verticillium Lecanii 1.50% Liquid Formulation, (1x108 CFU/ml. min.) Strain – T Stanes VI-1, Accession No – MTCC-5172
+
+- Pesticide name: Verticillium Lecanii 1.50% Liquid Formulation, (1x108 CFU/ml. min.) Strain – T Stanes VI-1, Accession No – MTCC-5172
+- Crop: Tomato
+- Disease: White fly (Bemisia tabaci)
+- Dosage: -; 2000 (Foliar spray); 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Verticillium lecanii 3.0% AS, (strain: Accession No. MCC-1127, Strain No. MPKV / Biocontrol/ RVN/ VL-01
+
+- Pesticide name: Verticillium lecanii 3.0% AS, (strain: Accession No. MCC-1127, Strain No. MPKV / Biocontrol/ RVN/ VL-01
+- Crop: Onion
+- Disease: Thrips (Thrips tabaci)
+- Dosage: -; 2000-2500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Verticillium lecanii 5.0% SC, (Strain: Accession No. NFCCI - 2638
+
+- Pesticide name: Verticillium lecanii 5.0% SC, (Strain: Accession No. NFCCI - 2638
+- Crop: Cabbage
+- Disease: Diamond Back Moth (Plutella xylostella)
+- Dosage: -; 500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Verticillium lecanii 5.0% SC, (1x108 CFU/gm Min.) Strain – Own Red Isolate, Strain No. VI-17874, MTCC No.5716
+
+- Pesticide name: Verticillium lecanii 5.0% SC, (1x108 CFU/gm Min.) Strain – Own Red Isolate, Strain No. VI-17874, MTCC No.5716
+- Crop: Rice
+- Disease: White backed plant hopper (Sogotella furcifera)
+- Dosage: -; 3.125 kg.; 600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS (1x109 POB/ml)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS (1x109 POB/ml)
+- Crop: Cotton
+- Disease: Helicoverpa armigera
+- Dosage: -; 2700; 400-600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS (1x109 POB/ml)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS (1x109 POB/ml)
+- Crop: Tomato
+- Disease: Helicoverpa armigera
+- Dosage: -; 1500; 400-600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. GBS/HNPV -01 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. GBS/HNPV -01 (1x109 POB/ml Min.)
+- Crop: Pigeon pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. GBS/HNPV -01 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. GBS/HNPV -01 (1x109 POB/ml Min.)
+- Crop: Gram
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. NBRI-8821 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. NBRI-8821 (1x109 POB/ml Min.)
+- Crop: Pigeon pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 500; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 12
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBH-17268 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBH-17268 (1x109 POB/ml Min.)
+- Crop: Pigeon pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500 ml; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBH-17268 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBH-17268 (1x109 POB/ml Min.)
+- Crop: Gram
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500 ml; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+- Crop: Pigeon pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+- Crop: Chick pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500-750; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. BIL/HV-9 POB(1x109 POB/ml Min.)
+- Crop: Tomato
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBL-17268
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBL-17268
+- Crop: Pigeon pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250-500; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBL-17268
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 2.0% AS, Strain No. IBL-17268
+- Crop: Chick pea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 500-1000; 500-750
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS, Strain No. BIL/HV-9 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS, Strain No. BIL/HV-9 (1x109 POB/ml Min.)
+- Crop: Cotton
+- Disease: Helicoverpa armigera
+- Dosage: -; 2700; 400-600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS, Strain No. BIL/HV-9 (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Helicoverpa armigera 0.43% AS, Strain No. BIL/HV-9 (1x109 POB/ml Min.)
+- Crop: Tomato
+- Disease: Helicoverpa armigera
+- Dosage: -; 1500; 400-600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: Nuclear Polyhedrosis Virus of Spodoptera litura 0.5% AS, (1x109 POB/ml Min.)
+
+- Pesticide name: Nuclear Polyhedrosis Virus of Spodoptera litura 0.5% AS, (1x109 POB/ml Min.)
+- Crop: Tobacco
+- Disease: Spodoptera litura
+- Dosage: -; 1500; 400-600
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: NPV of Helicoverpa armigera 0.5%AS, (1x109 POB/ml Min.)
+
+- Pesticide name: NPV of Helicoverpa armigera 0.5%AS, (1x109 POB/ml Min.)
+- Crop: Chickpea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 13
+
+## Recommendation: NPV of Helicoverpa armigera 2.0%AS, (1x109 POBs count / ml min) Biological Insecticide
+
+- Pesticide name: NPV of Helicoverpa armigera 2.0%AS, (1x109 POBs count / ml min) Biological Insecticide
+- Crop: Chickpea
+- Disease: Pod borer (Helicoverpa armigera)
+- Dosage: -; 250; 600
+- Application instructions: Not shown in this source row.
+- Source page: PDF pages 13-14
+
+## Recommendation: Paecilomyces lilacinus 01.15% WP (Accession No. MTCC No. 5175, T-Stanes PI-1 Strain)
+
+- Pesticide name: Paecilomyces lilacinus 01.15% WP (Accession No. MTCC No. 5175, T-Stanes PI-1 Strain)
+- Crop: Brinjal
+- Disease: Root Knot Nematode
+- Dosage: 03.0 kg; 500 kg Organic manure/ Organic fertilizer; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Paecilomyces lilacinus 1.15% WP (CFU 1^108 / gm. Min) (T Stanes –Pl-1 Strain Accession No. MTCC 5175)
+
+- Pesticide name: Paecilomyces lilacinus 1.15% WP (CFU 1^108 / gm. Min) (T Stanes –Pl-1 Strain Accession No. MTCC 5175)
+- Crop: Chilli
+- Disease: Root Knot Nematode
+- Dosage: 11.5 g; 5.0 – 6.0; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Paecilomyces lilacinus 1.15% WP (CFU 1^108 / gm. Min) (T Stanes –Pl-1 Strain Accession No. MTCC 5175)
+
+- Pesticide name: Paecilomyces lilacinus 1.15% WP (CFU 1^108 / gm. Min) (T Stanes –Pl-1 Strain Accession No. MTCC 5175)
+- Crop: Cucumber
+- Disease: Root Knot Nematode
+- Dosage: 11.5 g; 5.0 -6.0; -
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Paecilomyces lilacinus 01.50% LF (CFU count 1x108/ml min.)(Accession No. MTCC No. 5175, T-Stanes PI-1 Strain)
+
+- Pesticide name: Paecilomyces lilacinus 01.50% LF (CFU count 1x108/ml min.)(Accession No. MTCC No. 5175, T-Stanes PI-1 Strain)
+- Crop: Tomato
+- Disease: Root Knot Nematode (Meloidogyne incognita)
+- Dosage: -; 6000; 500
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Public-health-use rows (the source lists no crop)
+
+## Recommendation: Azadirachtin 0.15% EC
+
+- Pesticide name: Azadirachtin 0.15% EC
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Mosquito larvae
+- Habitat: Stagnant water, Drainage water, Puddle
+- Surface: 10.7 m2
+- Dosage: a.i. (gm): 1.0; Formulation (gm): 1.0
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Azadirachtin 0.15% EC
+
+- Pesticide name: Azadirachtin 0.15% EC
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Mosquito larvae
+- Habitat: Iron containers, Machinery scraps, Iron box, Iron tanks
+- Surface: 53.6 m2
+- Dosage: a.i. (gm): 5.0; Formulation (gm): 5.0
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Azadirachtin 0.15% EC
+
+- Pesticide name: Azadirachtin 0.15% EC
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Mosquito larvae
+- Habitat: Plastic scraps, Pit
+- Surface: 01 ha
+- Dosage: a.i. (gm): 933.3; Formulation (gm): 933.3
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Bacillus thuringiensis var. israelensis WP
+
+- Pesticide name: Bacillus thuringiensis var. israelensis WP
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Anopheles and Culex (larvae)
+- Habitat: -
+- Surface: -
+- Dosage: a.i. (gm): -; Formulation (gm): 2-5 kg.
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+
+- Pesticide name: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Culex
+- Habitat: Drains, Cesspits, Casuarina pits, Disused wells
+- Surface: 01 liter in 100 liter of water
+- Dosage: a.i. (gm): -; Formulation (gm): 5.0 litres
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+
+- Pesticide name: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Anopheles
+- Habitat: Paddy fields, Ponds, Pools
+- Surface: 01 liter in 50 liter of water
+- Dosage: a.i. (gm): -; Formulation (gm): 10.0 litres
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14
+
+## Recommendation: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+
+- Pesticide name: Bacillus thuringiensis var. israelensis , Serotype H-14 (VECTOBAC 12 AS) Potency 1200 ITU / MG (VCRC Serotype H-14 strain
+- Crop: Not applicable (public-health use; no crop listed)
+- Name of insect: Aedes
+- Habitat: Tree holes, Disused tyres
+- Surface: 01 liter in 50 liter of water
+- Dosage: a.i. (gm): -; Formulation (gm): 10.0 litres
+- Application instructions: Not shown in this source row.
+- Source page: PDF page 14

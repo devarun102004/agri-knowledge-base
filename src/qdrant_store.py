@@ -38,7 +38,7 @@ class QdrantStore:
                     distance=models.Distance.COSINE,
                 ),
             )
-        for field_name in ("document_id", "document_revision"):
+        for field_name in ("document_id", "document_revision", "product"):
             self.client.create_payload_index(
                 collection_name=self.collection_name,
                 field_name=field_name,
@@ -124,12 +124,27 @@ class QdrantStore:
     def search(self, vector: list[float], limit: int = 5) -> list[dict[str, Any]]:
         if limit <= 0:
             raise ValueError("limit must be greater than zero")
+        recommendation_filter = models.Filter(
+            must_not=[
+                models.IsEmptyCondition(
+                    is_empty=models.PayloadField(key="product"),
+                )
+            ]
+        )
         response = self.client.query_points(
             collection_name=self.collection_name,
             query=vector,
+            query_filter=recommendation_filter,
             limit=limit,
             with_payload=True,
         )
+        if not response.points:
+            response = self.client.query_points(
+                collection_name=self.collection_name,
+                query=vector,
+                limit=limit,
+                with_payload=True,
+            )
         return [
             {"score": point.score, **(point.payload or {})}
             for point in response.points
