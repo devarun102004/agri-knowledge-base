@@ -11,6 +11,8 @@ from config.settings import (
     QDRANT_URL,
 )
 
+_UPSERT_BATCH_SIZE = 64
+
 
 class QdrantStore:
     def __init__(
@@ -80,6 +82,7 @@ class QdrantStore:
                 "product",
                 "active_ingredient",
                 "dosage",
+                "waiting_period",
                 "application_instructions",
                 "name_of_insect",
                 "habitat",
@@ -94,11 +97,12 @@ class QdrantStore:
                     payload=payload,
                 )
             )
-        self.client.upsert(
-            collection_name=self.collection_name,
-            points=points,
-            wait=True,
-        )
+        for start in range(0, len(points), _UPSERT_BATCH_SIZE):
+            self.client.upsert(
+                collection_name=self.collection_name,
+                points=points[start : start + _UPSERT_BATCH_SIZE],
+                wait=True,
+            )
         self.client.delete(
             collection_name=self.collection_name,
             points_selector=models.FilterSelector(
